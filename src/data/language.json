@@ -1,0 +1,18 @@
+[
+    {
+        "type": "Frontend",
+        "names": ["HTML", "CSS", "JavaScript", "Bootstrap", "Jquery", "EJS", "Bootstrap"]
+    },
+    {
+        "type": "Backend",
+        "names": ["Node", "Express", "Axios", "C#"]
+    },
+    {
+        "type": "Mobile",
+        "names": ["Java", "Kotlin", "Objective C", "Swift", "C#"]
+    },
+    {
+        "type": "Database",
+        "names": ["SQL", "NOSQL"]
+    }
+]

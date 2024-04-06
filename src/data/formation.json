@@ -1,0 +1,22 @@
+[
+    {
+        "company": "Cégep de Sorel-Tracy",
+        "year": "2013 - 2017",
+        "description": "Techniques de l'informatique - Développement d'applications Web et Mobiles",
+        "link": "https://www.cegepst.qc.ca/programme/developpement-dapplications-web-et-mobiles/",
+        "picture": {
+            "name": "Logo du Cégep de Sorel-Tracy",
+            "filename": "cegep_Sorel-Tracy.jpg"
+        }
+    },
+    {
+        "company": "Udemy",
+        "year": "2024",
+        "description": "The Complete 2024 Web Development Bootcamp",
+        "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "picture": {
+            "name": "Logo de Udemy",
+            "filename": "udemy.png"
+        }
+    }
+]

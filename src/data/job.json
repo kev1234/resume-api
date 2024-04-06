@@ -1,0 +1,50 @@
+[
+    {
+        "company": "INGtech ",
+        "title": "Développeur",
+        "year": "2023",
+        "description": "Programmeur analyste pour l'application DrivING.",
+        "language": "Programmation Xamarin (Android)",
+        "link": "https://www.ingtech.com/fr/",
+        "picture": {
+            "name": "Logo de INGtech",
+            "filename": "ingtech_logo.jpg"
+        }
+    },
+    {
+        "company": "Descartes Systems Group",
+        "title": "Développeur",
+        "year": "2020 - 2023",
+        "description": "Programmeur analyste pour l'application ShipTrack, en plus d'autres applications dans le domaine du transport.",
+        "language": "Programmation Java, Kotlin, Objective C et Xamarin (IOS et Android)",
+        "link": "https://www.descartes.com/fr/accueil?language=fr",
+        "picture": {
+            "name": "Logo de Descartes",
+            "filename": "descartes_logo.jpg"
+        }
+    },
+    {
+        "company": "ShipTrackApp.com",
+        "title": "Développeur",
+        "year": "2018 - 2020",
+        "description": "Programmeur analyste pour l'application ShipTrack et intégration pour plusieurs clients majeurs de l'industrie du transport tel que Purolator.",
+        "language": "Développement pour les appareils Zebra Technologies. Programmation Java, Kotlin, Objective C et Swift (IOS)", 
+        "link": "https://shiptrackapp.com/",
+        "picture": {
+            "name": "Logo de Shiptrack",
+            "filename": "shiptrack_logo.jpg"
+        }
+    },
+    {
+        "company": "Sibyl",
+        "title": "Développeur",
+        "year": "2017 - 2018",
+        "description": "Programmeur analyste pour l'application ShipTrack, en plus d'autres applications dans le domaine du transport.",
+        "language": "Programmation Java (Android) et C# (Windows mobile)",
+        "link": "",
+        "picture": {
+            "name": "Logo de Sibyl",
+            "filename": "sibyl_logo.jpg"
+        }
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "type": "Web",
+        "names": ["Visual Studio Code", "Visual Studio"]
+    },
+    {
+        "type": "Mobile",
+        "names": ["Android Studio", "Xcode", "Rider", "Visual Studio"]
+    },
+    {
+        "type": "Database",
+        "names": ["PostgresSql", "MongoDB"]
+    },
+    {
+        "type": "Autre",
+        "names": ["Postman", "Git", "Azure Devops"]
+    }
+]
