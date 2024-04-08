@@ -2,10 +2,12 @@
   "name": "resumeapi",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "./src/app.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run prod",
+    "dev": "dotenvx run --env-file=./src/.env.dev -- nodemon ./src/app.js",
+    "prod": "dotenvx run --env-file=./src/.env.prod -- node ./src/app.js"
   },
   "keywords": [],
   "author": "",

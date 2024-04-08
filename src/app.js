@@ -32,7 +32,7 @@ app.listen(port, (req, res) => {
 
 function getJsonFromFile(filename) {
     try {
-        let data = JSON.parse(fs.readFileSync(`./data/${filename}.json`, "utf8"));
+        let data = JSON.parse(fs.readFileSync(`./src/data/${filename}.json`, "utf8"));
         console.log(data);
         return data;
     } catch (error) {
