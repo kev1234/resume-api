@@ -9,10 +9,10 @@
     },
     {
         "type": "Database",
-        "names": ["PostgresSql", "MongoDB"]
+        "names": ["PostgresSql", "MySQL", "MongoDB"]
     },
     {
-        "type": "Autre",
-        "names": ["Postman", "Git", "Azure Devops"]
+        "type": "Autres",
+        "names": ["Postman", "Git", "Docker", "Linux", "Azure Devops", "Bitbucket", "Confluence", "Jira"]
     }
 ]

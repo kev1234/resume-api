@@ -5,11 +5,11 @@
     },
     {
         "type": "Backend",
-        "names": ["Node", "Express", "Axios", "C#"]
+        "names": ["Node", "Express", "Axios", "C#", "Python"]
     },
     {
         "type": "Mobile",
-        "names": ["Java", "Kotlin", "Objective C", "Swift", "C#"]
+        "names": ["Java", "Kotlin", "Objective C", "Swift", "Xamarin"]
     },
     {
         "type": "Database",
